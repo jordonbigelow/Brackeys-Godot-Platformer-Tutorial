@@ -4,4 +4,4 @@ This is a tutorial game I followed from a youtube channel known as Brackeys
 ## All credit goes to him, not me.
 I just wanted to store this project somewhere I could share it and use version control.
 ### Download
-You can download this project and open it in Godot. However, you can also just download the exe and cpk file if you have a Windows machine. Just make sure you run the exe in the same directory as the cpk file, otherwise you will get an error when trying to launch the game.
+You can download this project and open it in Godot. However, you can also just download the exe and pck file (This is in the 'Windows Executable' folder in this repo) if you have a Windows machine. Just make sure you run the exe in the same directory as the cpk file, otherwise you will get an error when trying to launch the game.
